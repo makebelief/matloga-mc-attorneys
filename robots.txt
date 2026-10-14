@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+# Unapproved concept: HTML pages contain noindex directives.
